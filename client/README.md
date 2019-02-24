@@ -13,7 +13,7 @@ mohamedhassansulatan@gmail.com
 
 ### Screenshots
 
-<img src="https://lh3.googleusercontent.com/ZHAxfDXPMFd0781t7TR-wEcaykMJhrFwvMT_ebSro69OV9Wmt_He07aq-Y-wvLEh3Z4=w720-h310-rw" width="100">
-<img src="https://lh3.googleusercontent.com/JUXLvmr8uFTXF4iRZ6XT-6EY9ssOKWONZwkH-ge-_lb7Be9tA58B4U8BJJEGDdRGs-TO=w720-h310-rw" width="100">
+<img src="https://lh3.googleusercontent.com/ZHAxfDXPMFd0781t7TR-wEcaykMJhrFwvMT_ebSro69OV9Wmt_He07aq-Y-wvLEh3Z4=w720-h310-rw" width="300">
+<img src="https://lh3.googleusercontent.com/JUXLvmr8uFTXF4iRZ6XT-6EY9ssOKWONZwkH-ge-_lb7Be9tA58B4U8BJJEGDdRGs-TO=w720-h310-rw" width="300">
 <img src="https://lh3.googleusercontent.com/cXlf0KK3akRPWxCxRV8rafedMH8hzE4KMwzMs-3QXIrhFYuMUt0rmXkamCjJ5w0Xmc8=w720-h310-rw"> 
 
